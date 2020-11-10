@@ -8,13 +8,13 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://github.com/amoots/earlystudentphotos_draft
+url: https://amoots.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /earlystudentphotos_draft
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/amoots/earlystudentphotos_draft
 
-##########
+########
 # SITE SETTINGS
 #
 # title of site appears in banner
