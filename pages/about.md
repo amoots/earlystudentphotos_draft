@@ -17,7 +17,7 @@ This site is generated using [`collectionbuilder-gh`](https://collectionbuilding
 - a CSV of collection metadata
 - a folder of JPEG images or PDF documents
 
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+The base site features photos from the Truman State University's [Digital Library](http://digitallibrary.truman.edu/). 
 
 ## About the About Page
 
